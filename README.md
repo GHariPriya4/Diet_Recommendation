@@ -19,9 +19,9 @@ The purpose of our project is to offer personalized diet recommendations that ad
 
 
 Used Azure Core Services:
-Azure Portal 
-Azure DevOps (for deployment)
-Azure Visual Studio Code
+Azure Portal ,
+Azure DevOps (for deployment),
+Azure Visual Studio Code,
 
 Azure Machine Learning Studio 
 
